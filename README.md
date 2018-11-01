@@ -8,6 +8,8 @@
 #   miner
 #   vms
 #   daily
+#   openvpn
+
 # main progame: manager.py
 
 # usage:
